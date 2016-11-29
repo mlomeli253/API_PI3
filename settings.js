@@ -3,10 +3,10 @@
 exports.dbConfig = {
 	user: 'misael_lomeli',
 	password: 'Programacion.253',
-	server: 'lrmisael.database.windows.net',
+	server: 'mlomeli.database.windows.net',
   options: {
     encrypt: true,
-  	database: 'pi_2016',
+  	database: 'Tienda',
   }
 };
 
